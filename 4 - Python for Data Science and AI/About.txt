@@ -1,0 +1,1 @@
+This folder contains all python codes that I learned from course "Python for Data Science and AI" from IBM Data Science Professional Certificate offered through Coursera.
