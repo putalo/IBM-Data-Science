@@ -1,1 +1,2 @@
 This folder contains some lecture notes from "Data Science Methodology" course
+For ease of viewing, consider using "https://nbviewer.jupyter.org/" 
